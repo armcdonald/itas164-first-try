@@ -1,1 +1,2 @@
 Adding information to the file
+This (as Ben often does) causes conflicts.
