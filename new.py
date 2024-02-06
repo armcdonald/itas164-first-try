@@ -1,9 +1,9 @@
 for i in range(10):
     print('hello')
 
-j = 0
-while j < 5:
-    print(f'{j+1} Second time')
-    j += 1
+q = 0
+while q < 5:
+    print(f'{q+1} Second time')
+    q += 1
     
-print("goodbye")
+print("Problems")
