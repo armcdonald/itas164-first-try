@@ -7,7 +7,8 @@ Allan McDonald
 1. Add a numbered comment after this line
    
 [ ] How about check boxes
-[x] This one is done.ß
+
+[x] This one is done.
 
 More information
 
