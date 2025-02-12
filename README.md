@@ -4,13 +4,10 @@
 
 Allan McDonald
 
-1. This is done
-2. That is done
-3. The other things are done
-4. More things done
-
-- New info
-- More info
+1. Add a numbered comment after this line
+   
+[ ] How about check boxes
+[x] This one is done.ß
 
 More information
 
