@@ -13,3 +13,8 @@ Allan McDonald
 More information
 
 ###### new level 6 header
+
+```python
+def main():
+    print("Hello, World!")
+```
